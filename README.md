@@ -29,6 +29,12 @@ Use the 'A' and 'D' keys to move left and right, and press space to jump. In ord
 - **Working Sound Effects:** Fully functional sound effects, providing auditory feedback for actions and interactions.
 - **Game Over Screen:** Dynamic game over screen upon dying, allowing players to restart the game upon clicking.
 
+## Screenshots
+
+![Start Screen](https://raw.githubusercontent.com/doriana2001/platformer-game/main/screenshots/start_screen.jpg)
+![In-Game](https://raw.githubusercontent.com/doriana2001/platformer-game/main/screenshots/play_screen.jpg)
+![Gameplay](https://raw.githubusercontent.com/doriana2001/platformer-game/main/screenshots/gameplay.gif)
+
 ## Credits
 
 The following free resources were used in this project:
